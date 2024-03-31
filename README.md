@@ -10,8 +10,6 @@ Then, this expression list is in infix format which is converted to postfix form
 Further, the result is calculated from postfix expression.
 And finally, the result is displayed.
 
-Visit https://uidesignpage.blogspot.com/2023/03/gui-based-calculator.html
-
 The GUI of calculator is:
 
 ![image](https://user-images.githubusercontent.com/96874023/227540493-c4fd2c1f-3091-4aff-9c76-5369a0ef04f4.png)
